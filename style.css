@@ -397,10 +397,10 @@ nav {
 }
 
 @keyframes softplayAnim {
-  0%   { background-image: url(../images/softplay1.png); }
-  33%  { background-image: url(../images/softplay2.png); }
-  66%  { background-image: url(../images/softplay3.png); }
-  100% { background-image: url(../images/softplay1.png); }
+  0%   { background-image: url(images/softplay1.png); }
+  33%  { background-image: url(images/softplay2.png); }
+  66%  { background-image: url(images/softplay3.png); }
+  100% { background-image: url(images/softplay1.png); }
 }
 
 /* Toddler Play Animation */
@@ -409,10 +409,10 @@ nav {
 }
 
 @keyframes toddlerAnim {
-  0%   { background-image: url(../images/tplay1.png); }
-  33%  { background-image: url(../images/tplay2.png); }
-  66%  { background-image: url(../images/tplay3.png); }
-  100% { background-image: url(../images/tplay1.png); }
+  0%   { background-image: url(images/tplay1.png); }
+  33%  { background-image: url(images/tplay2.png); }
+  66%  { background-image: url(images/tplay3.png); }
+  100% { background-image: url(images/tplay1.png); }
 }
 
 /* Role Play Animation */
@@ -421,9 +421,9 @@ nav {
 }
 
 @keyframes roleplayAnim {
-  0%   { background-image: url(../images/rplay.png); }
-  50%  { background-image: url(../images/rplay1.png); }
-  100% { background-image: url(../images/rplay2.png); }
+  0%   { background-image: url(images/rplay.png); }
+  50%  { background-image: url(images/rplay1.png); }
+  100% { background-image: url(images/rplay2.png); }
 }
 
 .footer {
