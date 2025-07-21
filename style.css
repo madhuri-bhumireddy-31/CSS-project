@@ -394,6 +394,7 @@ nav {
 /* Soft Play Animation */
 .tool-right {
   animation: softplayAnim 6s infinite;
+   background-image: url(images/softplay1.png); 
 }
 
 @keyframes softplayAnim {
@@ -406,6 +407,7 @@ nav {
 /* Toddler Play Animation */
 .tool-right2 {
   animation: toddlerAnim 6s infinite;
+  background-image: url(images/tplay1.png);
 }
 
 @keyframes toddlerAnim {
@@ -418,6 +420,7 @@ nav {
 /* Role Play Animation */
 .tool-right3 {
   animation: roleplayAnim 5s infinite;
+  background-image: url(images/rplay.png); 
 }
 
 @keyframes roleplayAnim {
