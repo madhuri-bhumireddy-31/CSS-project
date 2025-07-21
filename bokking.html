@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Online Booking - Jolly Island</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600&family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <style>
+ 
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+      <nav>     
+            <a class="a-element" href="index.html">Home</a>
+            <a class="a-element" href="about.html">About</a>
+            <a class="a-element" href="exibits.html">Exibits</a>
+            <a class="a-element" href="pic.html">Gallery</a>
+            <a class="a-element" href="price.html">Pricing and Timing</a>
+            <a class="a-element" href="bokking.html">Online Booking</a> 
+            <a class="a-element" href="contact.html">Contact Us</a>
+            <a class="a-element" href="tel:+91 6303492312"><img class="sticky" src="images/phone-call.png" alt=""></a>       
+    </nav>
+
+  <!-- Booking Section -->
+  <h1>Book Your Visit</h1>
+  <div class="booking-container">
+    <h2>Fill in your details</h2>
+    <form action="#" method="POST">
+      <input type="text" name="name" placeholder="Your Full Name" required>
+      <input type="email" name="email" placeholder="Email Address" required>
+      <input type="tel" name="phone" placeholder="Mobile Number" required>
+      
+      <select name="party_type" required>
+        <option value="">Select Party Type</option>
+        <option value="Birthday">Birthday Party</option>
+        <option value="Play Visit">Regular Play Visit</option>
+        <option value="School Trip">School Trip</option>
+      </select>
+      
+      <input type="date" name="date" required>
+      <input type="time" name="time" required>
+      <textarea name="message" placeholder="Any special instructions? (optional)"></textarea>
+
+      <button type="submit">Book Now 🎉</button>
+    </form>
+  </div>
+
+</body>
+</html>
