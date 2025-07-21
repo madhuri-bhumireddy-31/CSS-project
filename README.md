@@ -1,5 +1,5 @@
-# 🎨 CSS Project – Styled with HTML, CSS & Sass
-## 🚀 Live Demo 👉 [View Live Site](https://madhuri-bhumireddy-31.github.io/CSS-project/) 
+# 🎨 CSS Project
+##  Live Demo 👉 [View Live Site](https://madhuri-bhumireddy-31.github.io/CSS-project/) 
 
 Welcome to my simple web UI project built using **HTML**, **CSS**, and **Sass**. This project demonstrates clean structuring, responsive layout, and modern styling practices.
 
